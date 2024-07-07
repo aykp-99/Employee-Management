@@ -1,3 +1,10 @@
 pandas
 numpy
 firebase_admin
+streamlit
+streamlit_option_menu
+mysql
+google_auth_oauthlib
+plotly
+mysql-connector-python
+google_api_python_client
